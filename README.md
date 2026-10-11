@@ -1,10 +1,10 @@
-Cloud-Native Inventory Management System
+**Cloud-Native Inventory Management System**
 
-Overview
+**Overview**
 
 The Cloud-Native Inventory Management System is a full-stack application designed to manage inventory records and monitor stock levels. It uses Java and Spring Boot for backend development, MySQL for data storage, and React.js for the user interface.
 
-Technologies Used
+**Technologies Used**
 
 Java
 Spring Boot
@@ -23,14 +23,14 @@ Web-based user interface using React.js
 Containerization using Docker
 Unit and integration testing
 
-Project Structure
+**Project Structure**
 
 backend/ — Spring Boot application
 frontend/ — React.js application
 docker-compose.yml — Container configuration, if implemented
 README.md — Project documentation
 
-Getting Started
+**Getting Started**
 
 Clone the repository.
 Configure your MySQL database and application properties.
